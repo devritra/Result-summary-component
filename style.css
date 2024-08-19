@@ -8,16 +8,6 @@
     align-content: center;
     flex-wrap: wrap;
 }
-/*#bg{
-    width: 375px;
-    height: 809px;
-    background-color: white;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-content: center;
-    flex-wrap: wrap;
-}*/
 #points{
     width: 375px;
     height: 809px;
@@ -54,13 +44,11 @@
 #first{
     font-size: 70px;
     align-self: flex-start;
-    /*transform: translateY(-20px);*/
     margin: 0px;
     color: white;
 }
 #second{
     text-align: center;
-    /*transform: translateY(20px);*/
     margin:0px;
     color: hsl(241, 86%, 81%)
 }
@@ -140,7 +128,6 @@ span{
 button{
     width: 321px;
     height: 50px;
-    padding-top: 10px;
     align-self: center;
     background-color: hsl(224, 30%, 27%);
     color: white;
