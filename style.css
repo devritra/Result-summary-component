@@ -140,7 +140,7 @@ button{
     }
     #points{
         width: 770px;
-        height: 375px;
+        height: 400px;
         box-shadow: 5px 5px 5px rgb(62, 62, 62);
         flex-direction: row;
         border-bottom-left-radius: 30px;
@@ -151,6 +151,7 @@ button{
     #summary{
         border-top-left-radius: 30px;
         border-top-right-radius: 30px;
+        height: 400px;
     }
     #content{
         height: 330px;
