@@ -133,6 +133,9 @@ button{
     color: white;
     border-radius: 30px;
 }
+button:hover{
+    background-image: linear-gradient(hsl(252, 100%, 67%),hsl(241, 81%, 54%));
+}
 @media screen and (min-width: 375px) {
     #main{
         width: 1440px;
